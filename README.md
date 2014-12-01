@@ -1,0 +1,1 @@
+Statistica Corporum Lexiconumue
