@@ -1,1 +1,7 @@
-Statistica Corporum Lexiconumue 2
+Lexical Statistics for Medieval Latin Corpora
+=============================================
+Scripts
+-------
+
+Shiny Apps
+----------
