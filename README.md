@@ -1,7 +1,9 @@
+Statistica Corporum Lexiconumue
+===============================
 Lexical Statistics for Medieval Latin Corpora
-=============================================
-Scripts
--------
+---------------------------------------------
+### Shiny App for Lexical Statistics
 
-Shiny Apps
-----------
+- [ ] backend for Alain Guerreau's scripts
+
+### Scripts
