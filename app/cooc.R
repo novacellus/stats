@@ -1,4 +1,4 @@
-﻿# cooc.R_
+﻿# cooc.R__
 
 # script "boîte à outils" d'analyse des cooccurrents 
 # écrit pour traiter des corpus de textes anciens,
